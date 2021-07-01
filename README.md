@@ -5,7 +5,7 @@ The player has to drag the character in the game across the screen in such a man
 
 <img src="https://user-images.githubusercontent.com/60446227/124142613-fb926100-daa7-11eb-881a-1542dce9223e.jpg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 5px;" />
      
      
 
